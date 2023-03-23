@@ -1,0 +1,174 @@
+.name{
+    background-image: url(fon2.jpg) ;
+    width: max;
+    height: 200px;
+    font-family:"spectral";
+    
+}
+h1{
+    font-weight: 600;
+    font-size: 40px;
+    font-style: oblique;
+    font-family:"spectral";
+    color: #FAED26;
+    text-align: center;
+    
+    
+}
+h2{
+    font-weight: 550;
+    font-size: 30px;
+    font-style: oblique;
+    color: #FAED26;
+    text-align: center;
+    font-family:"spectral";
+}
+h3{
+    font: weight 200px;;
+    font-size: 23px;
+    font-style: normal;
+    color: #FAED26;
+    text-align: center;
+    font-family:"spectral";
+}
+.menu{
+    font-weight: 300;
+    font-size: 30px;
+    font-style: italic;
+    font-family:"spectral";
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #5A5560;
+    border: 8px solid #5A5560;
+    }
+    .menu a{
+        text-decoration: none;
+        color: white;
+        margin: 20px;
+    }
+h4{
+    font-weight: 550;
+    font-size: 30px;
+    font-family:"spectral";
+    font-style: normal;
+    text-align: center;
+    color: #46344E;
+}
+.aboutme{
+    font-weight: 300;
+    font-size: 20px;
+    font-style: normal;
+    font-family:"spectral";
+    display: flex;
+
+    text-align: center;
+    
+   }
+   
+h5{
+    font-weight: 550;
+    font-size: 30px;
+    font-style: normal;
+    color: #46344E;
+    text-align: center;
+    font-family:"spectral";
+    
+}
+
+h6{
+    font-weight: 550;
+    font-size: 30px;
+    font-style: normal;
+    color: #46344E;
+    text-align: center;
+    font-family:"spectral";
+   
+}
+.quality{
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic; 
+    display: flex;
+    padding: 50px 200px 50px 200px;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+    margin: 20px 0px 20px 0px;
+    align-items: center;
+    background-color: #9D8D8F;
+    color: white;
+    font-family:"spectral";
+
+}
+h7{
+    font-weight: 550;
+    font-size: 30px;
+    font-style: normal;
+    color: #46344E;
+    text-align: center;
+    font-family:"spectral";
+    
+}
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:#5A5560 ;
+    border-color: #5A5560;
+    padding: 50px 200px 50px 200px;
+    
+      
+}
+.skills button{
+    background-color:  #FAED26;
+    border-color: #FAED26;
+    margin: 20px;
+    height: 30px;
+    border-radius: 30px;
+    font-size: 25px;
+    border-style: solid;
+    font-style: italic; 
+    font-family:"spectral";
+}
+p{
+    color: #5A5560;
+    border-width: 3px;
+    ;
+    
+
+}
+.myworks{
+    font-weight: 550;
+    font-size: 30px;
+    font-style: normal; 
+    color: #46344E;
+    text-align: center;
+    margin-top: 20px;
+    font-family:"spectral";
+}
+h8{ font-weight: 550;
+    font-size: 30px;
+    font-style: normal;
+    color: #46344E;
+    text-align: center;
+    font-family:"spectral";
+  
+}
+   
+.contact{
+    font-weight: 300;
+    font-size: 20px;
+    font-style: normal;
+    color: #46344E;
+    text-align: left;
+    font-family:"spectral";
+    text-decoration:none;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.contact img{
+    width: 70px;
+
+}
